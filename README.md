@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bezdelnique
 - 👀 I’m interested in Enterprise Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently study math and statistic analizis
 - 💞️ I’m looking to collaborate on methods of complex projects documentation
-- 📫 How to reach me @bezdelnique on Telegram
+- 📫 Reach me at @bezdelnique on Telegram
 
 <!---
 bezdelnique/bezdelnique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
